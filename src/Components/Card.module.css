@@ -1,0 +1,16 @@
+.cardDark{
+  background-color: #421010;
+}
+
+.favButton{
+  width: 100%;
+  background-color: rgb(80, 74, 39);
+}
+
+.CardBody{
+  width: 100%;
+}
+
+.title{
+  height: 2rem;
+}
